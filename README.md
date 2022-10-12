@@ -10,6 +10,7 @@ built with Laravel 9.
 To aquire our objective, we need this features on the application:
 
 - User can login.
+- User can dashboard.
 - User can see articles .
 - User can update articles .
 - User can delete articles .
