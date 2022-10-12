@@ -50,3 +50,26 @@ Starting Laravel development server: http://127.0.0.1:8000
 
 ![Login](public/assets/login_article.png)
 
+#### Dashboard
+
+![Login](public/assets/dashboard_article.png)
+
+#### Validation API
+
+![Login](public/assets/validasi_article.png)
+
+#### Articles API ALL
+
+![Login](public/assets/get_article.png)
+
+#### Articles API CREATE
+
+![Login](public/assets/create_article.png)
+
+#### Articles API UPDATE
+
+![Login](public/assets/update_article.png)
+
+#### Articles API DELETE
+
+![Login](public/assets/delete_article.png)
