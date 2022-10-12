@@ -40,7 +40,9 @@ This application can be installed on local server and online server with these s
 8. `$ php artisan migrate`
 9. `$ php artisan db:seed`
 10. `$ php artisan storage:link`
-11. `$ php artisan serve`
+11. `$ npm install && npm run dev` (not close npm run dev)
+12. `$ php artisan serve` (open new tab terminal)
+
 
 Starting Laravel development server: http://127.0.0.1:8000
 
