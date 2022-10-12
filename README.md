@@ -30,7 +30,7 @@ This application can be installed on local server and online server with these s
 #### Installation Steps
 
 1. Clone the repo : `git clone https://github.com/syahrizal-alisadikin/laravel-developer-test.git`
-2. `$ cd dompet`
+2. `$ cd laravel-developer-test`
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. `$ php artisan key:generate`
@@ -40,14 +40,17 @@ This application can be installed on local server and online server with these s
 8. `$ php artisan migrate`
 9. `$ php artisan db:seed`
 10. `$ php artisan storage:link`
-11. `$ php artisan serve`
+11. `$ npm install && npm run dev` (not close npm run dev)
+12. `$ php artisan serve` (open new tab terminal)
+
 
 Starting Laravel development server: http://127.0.0.1:8000
 
 ## Screenshots
 
 #### Login
-
+##### email : admin@admin.com
+##### password : password
 ![Login](public/assets/login_article.png)
 
 #### Dashboard
