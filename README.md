@@ -32,7 +32,7 @@ This application can be installed on local server and online server with these s
 4. `$ cp .env.example .env`
 5. `$ php artisan key:generate`
 6. Create new MySQL database for this application  
-(with simple command: `$ mysqladmin -urootuser -p create dompet_db`)
+(with simple command: `$ mysqladmin -urootuser -p create laravel_new`)
 7. Set database credentials on `.env` file
 8. `$ php artisan migrate`
 9. `$ php artisan db:seed`
