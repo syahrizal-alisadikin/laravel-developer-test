@@ -30,7 +30,7 @@ This application can be installed on local server and online server with these s
 #### Installation Steps
 
 1. Clone the repo : `git clone https://github.com/syahrizal-alisadikin/laravel-developer-test.git`
-2. `$ cd dompet`
+2. `$ cd laravel-developer-test`
 3. `$ composer install`
 4. `$ cp .env.example .env`
 5. `$ php artisan key:generate`
