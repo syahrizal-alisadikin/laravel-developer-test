@@ -49,7 +49,8 @@ Starting Laravel development server: http://127.0.0.1:8000
 ## Screenshots
 
 #### Login
-
+##### email : admin@admin.com
+##### password : password
 ![Login](public/assets/login_article.png)
 
 #### Dashboard
