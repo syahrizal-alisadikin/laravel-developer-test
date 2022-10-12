@@ -42,7 +42,7 @@ This application can be installed on local server and online server with these s
 11. `$ php artisan serve`
 
 Starting Laravel development server: http://127.0.0.1:8000
-```
+
 ## Screenshots
 
 #### Login
