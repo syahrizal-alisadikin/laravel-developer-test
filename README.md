@@ -26,7 +26,7 @@ This application can be installed on local server and online server with these s
 
 #### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/dompet.git`
+1. Clone the repo : `git clone https://github.com/syahrizal-alisadikin/laravel-developer-test.git`
 2. `$ cd dompet`
 3. `$ composer install`
 4. `$ cp .env.example .env`
