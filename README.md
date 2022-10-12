@@ -14,7 +14,9 @@ To aquire our objective, we need this features on the application:
 - User can update articles .
 - User can delete articles .
 
-
+- User can see API articles .
+- User can update API articles .
+- User can delete API articles .
 
 ## Getting Started
 This application can be installed on local server and online server with these specifications :
