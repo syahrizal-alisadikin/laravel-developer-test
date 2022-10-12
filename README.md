@@ -38,8 +38,14 @@ This application can be installed on local server and online server with these s
 7. Set database credentials on `.env` file
 8. `$ php artisan migrate`
 9. `$ php artisan db:seed`
-10. `$ php artisan serve`
+10. `$ php artisan storage:link`
+11. `$ php artisan serve`
 
 Starting Laravel development server: http://127.0.0.1:8000
 ```
+## Screenshots
+
+#### Login
+
+![Login](public/assets/login_article.png)
 
